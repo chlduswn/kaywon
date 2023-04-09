@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" href="images/pavicon.png">
+	<title>SASA[44] annual report 2022</title>
+	<meta http-equiv="refresh" content="3.5; url=main.html">
+	<style>
+		html {
+			background-color:#FF4335
+		}
+
+		#loading {
+			text-align: center;
+			margin-top: 90vh;
+		}
+
+		#load {
+			width: 8%;
+		}
+	</style>
+</head>
+
+<body>
+	<div id="loading">
+		<img id="load" src="images/load.gif">		
+	</div>
+</body>
+
+</html>
